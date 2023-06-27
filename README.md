@@ -10,4 +10,4 @@
 
 3. 100 dogs:
 
-   User JS to add 100 pictures of my dog into the DOM.
+   Use JS to add 100 pictures of my dog into the DOM.
