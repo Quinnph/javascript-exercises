@@ -7,3 +7,7 @@
 2. Todo List:
 
    User has 4 command options as an answer to the question "What would you like to do?": new - list - delete - quit. Enter "new" to add a new item to their todo list. Enter "list" to see their todo list. Enter "delete" to remove an item from the list, provided that the user knows the index of the item in the list. Enter "quit" to quit the app. 
+
+3. 100 dogs:
+
+   User JS to add 100 pictures of my dog into the DOM.
